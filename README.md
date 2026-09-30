@@ -12,8 +12,6 @@ Me chamo Pedro Henrique, tenho 19 anos e moro em Fortaleza - CE. Atualmente curs
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">Connect with me!</h3>
-
 <h3 align="left">My Stack ~</h3>
 
 <img 
