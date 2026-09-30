@@ -44,7 +44,7 @@ Me chamo **Pedro Henrique**, tenho 19 anos e moro em Fortaleza - CE. Atualmente 
   <img 
       alt="Top Langs" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hhmf0906&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hmf0906&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 </p>
 
