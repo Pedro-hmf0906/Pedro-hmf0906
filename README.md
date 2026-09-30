@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 ---
 
-<img align="right" alt="Edgerunners GIF" height="190" src="https://github.com/Pedro-hmf0906/Pedro-hmf0906/blob/main/src/edgerunners.gif?raw=true" />
+<!-- Ligação absoluta para o GIF -->
 
-Me chamo **Pedro Henrique**, tenho 19 anos e moro em Fortaleza - CE. Atualmente estou cursando **Ciência da Computação na UECE**.
-
-<br>
-
+Me chamo **Pedro Henrique**, tenho 19 anos e moro em Fortaleza - CE. Atualmente estou cursando **Ciência da Computação na UECE**. 
+ 
 ---
+
+<img align="right" alt="Edgerunners GIF" height="190px" src="https://github.com/Pedro-hmf0906/Pedro-hmf0906/blob/main/src%20/edgerunners.gif?raw=true">
 
 <h3 align="left">My Stack ~</h3>
 
@@ -41,7 +41,7 @@ Me chamo **Pedro Henrique**, tenho 19 anos e moro em Fortaleza - CE. Atualmente 
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Pedro-hmf0906&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-hmf0906&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
   <img 
       alt="Top Langs" 
@@ -52,8 +52,9 @@ Me chamo **Pedro Henrique**, tenho 19 anos e moro em Fortaleza - CE. Atualmente 
 
 <br/>
 
+<!-- Cache busting (?v=1) adicionado para forçar o carregamento da Cobrinha -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake-dark.svg?v=1">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedro-hmf0906/Pedro-hmf0906/output/github-contribution-grid-snake.svg?v=1">
 </picture>
